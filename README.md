@@ -1,1 +1,1 @@
-Currently working on sports betting web application. 
+Currently working on data tool for sports bettors. 
