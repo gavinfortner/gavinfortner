@@ -1,1 +1,1 @@
-Currently working on data tool for sports bettors. 
+Some form of a portfolio. 
